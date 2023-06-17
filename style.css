@@ -46,15 +46,19 @@ h1 {
 }
 body {
   background-color: #333;
-  color: #899089
+  color: rgba(255, 255, 255, 0.7);
+  font: 15px 'segoe ui', 'lucida sans unicode', 'lucida grande', lucida, sans-serif;
 }
+
 
 header {
   position: fixed;
   width: 100%;
   height: auto;
   background: #25222C;
+  top: 0;
+  left: 0;
 }
 main {
-  margin: 120px;
+  margin-top: 120px;
 }
